@@ -44,9 +44,9 @@
 #include <iostream>
 #include <cmath>
 
-#define DEFAULT_OUTPUT_RATE 15
-#define DEFAULT_IMAGE_WIDTH 64
-#define DEFAULT_IMAGE_HEIGHT 64
+#define DEFAULT_OUTPUT_RATE 20
+#define DEFAULT_IMAGE_WIDTH 120
+#define DEFAULT_IMAGE_HEIGHT 120
 
 class OpticalFlow
 {
